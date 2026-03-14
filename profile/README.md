@@ -109,35 +109,17 @@ Nuestro enfoque es técnico, elegante y orientado a resultados — comparable a 
 
 ---
 
-## ⚡ Desarrollo Local
-
-```bash
-# Instalar dependencias
-npm install
-
-# Iniciar servidor de desarrollo
-npm run dev
-
-# Build para producción
-npm run build
-
-# Preview del build
-npm run preview
-```
-
----
-
 ## 📬 Contacto
 
 <a href="https://twitter.com/orkest_io" target="_blank">
 <img src="https://img.shields.io/badge/Twitter-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://github.com/orkest-io" target="_blank">
+<a href="https://github.com/ORK-ST" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-%2300acee.svg?color=181717&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin-bottom: 5px;" />
 </a>
 
-<a href="mailto:hola@orkest.io" target="_blank">
+<a href="mailto:info@orkest.saltacoders.com" target="_blank">
 <img src="https://img.shields.io/badge/Email-%2300acee.svg?color=EA4335&style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="margin-bottom: 5px;" />
 </a>
 
