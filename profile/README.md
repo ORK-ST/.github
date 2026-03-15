@@ -31,7 +31,7 @@
 
 ## Introducción
 
-**ORKΞST** es un estudio premium de ingeniería en automatización con IA, fundado por tres ingenieros de software. Diseñamos y construimos sistemas inteligentes que orquestan flujos de trabajo complejos, agentes autónomos y pipelines de datos a escala empresarial.
+**ORKΞST** es un estudio premium de automatización con IA, fundado por tres desarrolladores de software. Diseñamos y construimos sistemas inteligentes que orquestan flujos de trabajo complejos, agentes autónomos y pipelines de datos a escala empresarial.
 
 Nuestro enfoque es técnico, elegante y orientado a resultados — comparable a los mejores estudios de producto del mundo como Vercel, Linear o Stripe.
 
